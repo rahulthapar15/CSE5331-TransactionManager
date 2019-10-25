@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "zgt_tx.C": "cpp",
+        "zgt_tm.C": "cpp",
+        "zgt_test.C": "cpp",
+        "zgt_semaphore.C": "cpp"
+    }
+}
